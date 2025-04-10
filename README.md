@@ -1,1 +1,1 @@
-# arduino_ilk_örnekler
+# arduino_ilk_dersler
